@@ -210,7 +210,7 @@ if (paragraphs.length > 0) {
 
 
     var settings = {
-        "url": "http://175.118.126.237:5005/predict_02", // 원하는 API 엔드포인트 URL로 변경
+        "url": "//175.118.126.237:5005/predict_02", // 원하는 API 엔드포인트 URL로 변경
         "method": "POST",
         "timeout": 0,
         "processData": false,
